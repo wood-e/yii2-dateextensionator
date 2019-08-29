@@ -1,5 +1,5 @@
 {
-    "name": "hostednetwork/yii2-dategenerator",
+    "name": "woody1990/yii2-dategenerator",
     "description": "This extension helps set dates to a multitude of different types",
     "type": "library",
     "keywords": ["yii2","date"],
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Matthew Wood",
-            "email": "matthew.wood@hostednetwork.com.au"
+            "email": "wood_matthew.wood@woody1990.com.au"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hostednetwork\\DateGenerator\\": ""
+            "woody1990\\DateGenerator\\": ""
         }
     }
 }

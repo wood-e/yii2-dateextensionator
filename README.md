@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hostednetwork/yii2-dategenerator "*"
+php composer.phar require --prefer-dist woody1990/yii2-dategenerator "*"
 ```
 
 or add
 
 ```
-"hostednetwork/yii2-dategenerator": "*"
+"woody1990/yii2-dategenerator": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \hostednetwork\DateGenerator\AutoloadExample::widget(); ?>```
+<?= \woody1990\DateGenerator\AutoloadExample::widget(); ?>```

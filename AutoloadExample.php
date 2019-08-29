@@ -1,6 +1,6 @@
 <?php
 
-namespace hostednetwork\DateGenerator;
+namespace woody1990\DateGenerator;
 
 /**
  * This is just an example.
