@@ -1,0 +1,21 @@
+{
+    "name": "hostednetwork/yii2-dategenerator",
+    "description": "This extension helps set dates to a multitude of different types",
+    "type": "library",
+    "keywords": ["yii2","date"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Wood",
+            "email": "matthew.wood@hostednetwork.com.au"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hostednetwork\\DateGenerator\\": ""
+        }
+    }
+}
